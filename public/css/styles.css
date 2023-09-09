@@ -1,0 +1,20 @@
+h1{
+    margin-top: 30px;
+    margin-left: 5%;
+    margin-right: 5% ;
+}
+h3{
+    margin-left: 5% ;
+    margin-right: 5% ;
+}
+p{
+    margin-left: 5%;
+    margin-right: 5% ;
+}
+
+.compose_form{
+    margin-left: 5%;
+    margin-right: 5% ;
+}
+ /* <% postArr.forEach(function(postArr){ %> 
+    <% })  %>  */
